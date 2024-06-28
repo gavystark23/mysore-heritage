@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mysore Heritage Art & Craft Sale</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fffbe6; /* Light yellow background */
+            color: #333; /* Dark gray text */
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #8b4513; /* Saddle brown header background */
+            color: #fff; /* White text */
+            padding: 1rem;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .content {
+            background-color: #fff; /* White content background */
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #8b4513; /* Saddle brown footer background */
+            color: #fff; /* White text */
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mysore Heritage Art & Craft Sale</h1>
+    </header>
+    <div class="container">
+        <div class="content">
+            <h2>Welcome to our Art & Craft Sale!</h2>
+            <p>Hello and Namaste! We are passionate about preserving and promoting Mysore's rich heritage through art and crafts.</p>
+            <p>Explore our unique collection featuring traditional Mysore art forms, handicrafts, and more.</p>
+            <p>Stay tuned for upcoming events, workshops, and special offers!</p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Mysore Heritage Art & Craft Sale. All rights reserved.</p>
+    </footer>
+</body>
+</html>
